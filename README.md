@@ -4,6 +4,7 @@
 ## _2020.11 ~ 이제야 처음으로 깃허브 꾸며보는 너낌 so good_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+나의 허접한 잔디...앞으로 많이 심어줄게><
 
 ### About Me
 - 리드미 꾸미기 테스트 중
