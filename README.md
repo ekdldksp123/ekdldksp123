@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=0,2,3&height=300&text=intro%20🍒&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=0,2,3&height=250&text=intro%20🍒&fontSize=70)
 <h2 align="center"><b>💎 2020.11 ~ tech stack 💎</b></h2>
 
-</br></br>
+</br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
 
-</br></br>
+</br>
 
 <h2 align="center"><b>❤️ i try ❤️</b></h2>
 
-</br></br>
+</br>
 
 [![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
