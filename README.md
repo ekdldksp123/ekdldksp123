@@ -1,17 +1,38 @@
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=0,2,3&height=300&text=intro%20🍒&fontSize=80)
+<h2 align="center"><b>💎 2020.11 ~ tech stack 💎</b></h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=250&text=intro%20🍒)
+</br></br>
 
-## _2020.11 ~ 이제야 처음으로 깃허브 꾸며보는 너낌 so good_
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-0099CC?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Sass-FF496D?style=flat-square&logo=Sass&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React(Native)-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
+<img src="https://img.shields.io/badge/Svelte-FF5349?style=flat-square&logo=svelte&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Flutter-F0F0F0?style=flat-square&logo=flutter&logoColor=00B5E2"> &nbsp
+<br/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/MariaDB-48B9C7?style=flat-square&logo=MariaDB&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Redis-EA2328?style=flat-square&logo=redis&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Linux-7870DB?style=flat-square&logo=linux&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+</p>
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-나의 허접한 잔디...앞으로 많이 심어줄게><
+</br></br>
 
-### About Me
-- 리드미 꾸미기 테스트 중
-- 완성 된거 아님
-- ✨절대 아님 ✨
+<h2 align="center"><b>❤️ i try ❤️</b></h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdldksp123&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekdldksp123&layout=compact)](https://github.com/metleeha)
+</br></br>
+
+[![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ekdldksp123/ekdldksp123/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 
