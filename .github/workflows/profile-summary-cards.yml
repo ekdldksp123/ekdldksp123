@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: ekdldksp123/github-profile-summary-cards@release
+      - uses: ekdldksp123/ekdldksp123@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_TOKEN }}
         with:
