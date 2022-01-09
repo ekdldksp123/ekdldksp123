@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/CSS3-0099CC?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Sass-FF496D?style=flat-square&logo=Sass&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/TypeScript-18A9EB?style=flat-square&logo=typescript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React(Native)-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/Svelte-FF5349?style=flat-square&logo=svelte&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
@@ -18,6 +19,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-48B9C7?style=flat-square&logo=MariaDB&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Redis-EA2328?style=flat-square&logo=redis&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/MongoDB-E8E7D5?style=flat-square&logo=mongodb&logoColor=3FA037"> &nbsp
 <img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Linux-7870DB?style=flat-square&logo=linux&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
