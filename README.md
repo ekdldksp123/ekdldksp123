@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/Flutter-F0F0F0?style=flat-square&logo=flutter&logoColor=00B5E2"> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/MariaDB-48B9C7?style=flat-square&logo=MariaDB&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Redis-EA2328?style=flat-square&logo=redis&logoColor=white"> &nbsp
