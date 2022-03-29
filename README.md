@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/React(Native)-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/Svelte-FF5349?style=flat-square&logo=svelte&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Flutter-F0F0F0?style=flat-square&logo=flutter&logoColor=00B5E2"> &nbsp
 <br/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
@@ -24,6 +26,8 @@
 <img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Linux-7870DB?style=flat-square&logo=linux&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Atlassian-FEFEFE?style=flat-square&logo=Atlassian&logoColor=0052CC"/></a> &nbsp
 </p>
 
 </br>
