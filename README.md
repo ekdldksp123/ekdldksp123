@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/React(Native)-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/Redux(Saga)-764ABC?style=flat-square&logo=Redux&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=Recoil&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Zustand-important?style=flat-square&logo=zustand&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Immer-00E7C3?style=flat-square&logo=Immer&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"> &nbsp
