@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/React(Native)-003545?style=flat-square&logo=react&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/Redux(Saga)-764ABC?style=flat-square&logo=Redux&logoColor=2361DAFB"> &nbsp
 <img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=Recoil&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Immer-00E7C3?style=flat-square&logo=Immer&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Svelte-FF5349?style=flat-square&logo=svelte&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
@@ -26,6 +28,7 @@
 <img src="https://img.shields.io/badge/MariaDB-48B9C7?style=flat-square&logo=MariaDB&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Redis-EA2328?style=flat-square&logo=redis&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-E8E7D5?style=flat-square&logo=mongodb&logoColor=3FA037"> &nbsp
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Github-grey?style=flat-square&logo=github&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Linux-7870DB?style=flat-square&logo=linux&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
