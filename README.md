@@ -18,6 +18,9 @@
 <img src="https://img.shields.io/badge/Immer-00E7C3?style=flat-square&logo=Immer&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Svelte-FF5349?style=flat-square&logo=svelte&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/-FF4154?style=flat-square&logo=React Query&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a> &nbsp
