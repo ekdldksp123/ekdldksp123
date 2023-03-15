@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Flutter-F0F0F0?style=flat-square&logo=flutter&logoColor=00B5E2"> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
