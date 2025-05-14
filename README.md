@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=0,2,3&height=250&text=intro%20🍒&fontSize=70)
-
----
-
 ## 💻 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
