@@ -14,10 +14,14 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat&logo=react-query&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/TanStack Router-FF4154?style=flat&logo=react-query&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat&logo=apollo-graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux Saga-9999FF?style=flat&logo=redux-saga&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-FF6A00?style=flat&logo=zustand&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Immer-00E7C3?style=flat&logo=immer&logoColor=black"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chart.js&logoColor=white"/>
