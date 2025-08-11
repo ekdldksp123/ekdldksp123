@@ -12,11 +12,13 @@
   <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat&logo=react-query&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/TanStack Router-FF4154?style=flat&logo=react-query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Apollo Client-311C87?style=flat&logo=apollo-graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux Saga-9999FF?style=flat&logo=redux-saga&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zustand-FF6A00?style=flat&logo=zustand&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Immer-00E7C3?style=flat&logo=immer&logoColor=black"/>
@@ -33,9 +35,6 @@
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
@@ -51,6 +50,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
 ---
